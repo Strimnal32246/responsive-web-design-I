@@ -311,12 +311,8 @@ footer {
         margin: 65px 15px 30px;
     }
 
-    .text-content {
-        margin: 0 10px;
-    }
-
     .contact {
-        margin: 0 25px;
+        margin: 10px;
     }
 }
 
@@ -378,11 +374,7 @@ footer {
         height: 440px;
     }
 
-    .text-content {
-        margin: 0;
-    }
-
     .contact {
-        margin: 20px;
+        margin: 25px;
     }
 }
